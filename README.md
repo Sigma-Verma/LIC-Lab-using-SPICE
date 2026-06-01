@@ -81,6 +81,8 @@ $$g_m = \frac{2I_D}{V_{ov}}$$
 ---
 
 ## Circuit 1: Differential Amplifier with Resistive Load
+<img src="https://github.com/Sigma-Verma/LIC-Lab-using-SPICE/blob/826e43ca718336a0adb45959b1ff5ef1ccee1a57/570833843-fecedb33-870b-480a-ac1b-b2711a96f2ee.png">
+
 
 ### Working Principle
 
