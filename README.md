@@ -13,6 +13,8 @@ To design and simulate three MOSFET-based differential amplifier configurations 
 
 ## Overview
 
+<img src="https://github.com/Sigma-Verma/LIC-Lab-using-SPICE/blob/c4e160125c69a66337cb7e7e2c35f52507cc1c76/differential-amplifier-circuit.jpg">
+
 A differential amplifier amplifies the voltage difference between two input signals while rejecting any voltage component shared by both inputs. This common-mode rejection property makes it indispensable in noise-sensitive analog systems.
 
 **Typical applications:**
